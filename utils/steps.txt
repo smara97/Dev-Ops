@@ -1,0 +1,6 @@
+Section-2
+Create new free tier account of AWS
+Sign up and create new user
+Create Billing Alarm limit 5 usd
+GoDaddy and buy new domain smaratech.com
+Add a domain in AWS and certificate of this domain by CNAME anc value 
