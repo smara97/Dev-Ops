@@ -1,0 +1,5 @@
+chocolatey for windows
+brew for macos
+virtualbox
+intellij
+
